@@ -515,6 +515,7 @@
 #  else:
 #         print("invalid")           
 
+<<<<<<< HEAD
 
 
 
@@ -577,3 +578,5 @@ salve
 for i in reversed(range(10)):
     
     print(i)
+=======
+>>>>>>> 117bf0cd30134a78943340bb06bd102e0c6ea6c3
