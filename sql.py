@@ -1,0 +1,1 @@
+CREATE DATABASE house_price_db;
